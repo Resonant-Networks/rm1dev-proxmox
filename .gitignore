@@ -1,0 +1,21 @@
+# Environment & secrets
+.env
+.env.*
+*.key
+*.pem
+id_rsa*
+*.token
+
+# Operating System & Editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*~
+*.swp
+
+# Python / virtualenv
+__pycache__/
+*.py[cod]
+.venv/
+venv/
